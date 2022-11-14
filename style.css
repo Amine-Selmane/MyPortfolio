@@ -557,6 +557,7 @@ nav {
 nav > .mainMenu {
   display: flex;
   list-style: none;
+  font-weight: 600;
 }
 nav > .mainMenu > li > a {
   display: inline-block;
